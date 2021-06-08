@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import Head from 'next/head'
-import Sidebar from "../../components/sidebar"
+import Sidebar from "../../components/Sidebar"
 import Chatscreen from "../../components/Chatscreen"
 import { auth, db } from "../../firebase"
 import getRecipEmail from "../../utils/getRecipEmail"
